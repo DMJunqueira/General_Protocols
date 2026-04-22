@@ -13,6 +13,12 @@
 ### Augur
 Perform downsampling (subsampling) of a set of viral sequences based on user-defined criteria (e.g., collection date, geographic region, host), reducing the number of sequences in a balanced and reproducible manner while preserving the temporal and geographic representativeness of the dataset.
 
+### CliqueSNV
+Reconstructs viral quasispecies present in next-generation sequencing (NGS) data.
+
+### ClusterPicker
+Identifies clades that have an intraspecific genetic distance below a set threshold and selects only clades with a given node support.
+
 ### FigTree
 Visualize, edit, and export phylogenetic trees.
 
