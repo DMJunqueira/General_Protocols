@@ -10,7 +10,7 @@
 
 
 
-### Influenza Analysis
+### Analysis: Influenza
 Lists all the main steps when dealing with influenza sequences in order to get a proper phylogeny.
 
 ### Augur
