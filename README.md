@@ -10,6 +10,9 @@
 
 
 
+### Influenza Analysis
+Lists all the main steps when dealing with influenza sequences in order to get a proper phylogeny.
+
 ### Augur
 Perform downsampling (subsampling) of a set of viral sequences based on user-defined criteria (e.g., collection date, geographic region, host), reducing the number of sequences in a balanced and reproducible manner while preserving the temporal and geographic representativeness of the dataset.
 
